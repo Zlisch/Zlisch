@@ -1,4 +1,4 @@
-#### Hi there:green_heart: I'm Zina, an undergrad from the Australian National University
+#### Hi there! I'm Zina, an undergrad from the Australian National University:green_heart:
 
 #### I plan to experiment with cool concepts I learned from class and awesome people with this account. Stay tune!!
 
