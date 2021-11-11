@@ -8,7 +8,7 @@
 - Collatz Conjecture
 - Simulating TMs on Haskell and Java
 - Fibonacci Complexity
-- Concurrecy and OS file I/O
+- Concurrency and OS file I/O
 
 [![Zlisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zlisch&theme=gotham&hide_border=true)](https://github.com/Zlisch/github-readme-stats)
 
