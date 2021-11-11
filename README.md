@@ -1,6 +1,6 @@
-#### Hi there! I'm Zina, an undergrad from the Australian National University:green_heart: 
+#### Hi there:green_heart: I'm Zina, an undergrad from the Australian National University
 
-#### I plan to experiment with cool concepts I learned from class and awesome people during holidays. Stay tune!!
+#### I plan to experiment with cool concepts I learned from class and awesome people with this account. Stay tune!!
 
 #### 🔭 I’m currently interested in:
 
