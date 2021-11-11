@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+#### I'm Zina, an undergrad from the Australian National University. I plan to experiment with cool concepts I learned from class and awesome people during holidays. Stay tune :green_heart:
+
+#### 🔭 I’m currently interested in:
+
+- Travelling salesman problem
+- Collatz Conjecture
+- Simulating TMs on Haskell and Java
+- Fibonacci Complexity
+- Concurrecy and OS file I/O
+
 <!--
 **Zlisch/Zlisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
