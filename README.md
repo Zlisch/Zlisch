@@ -10,7 +10,7 @@
 - Fibonacci Complexity
 - Concurrecy and OS file I/O
 
-[![Zlisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zlisch&bg_color="151515")](https://github.com/Zlisch/github-readme-stats)
+[![Zlisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zlisch&bg_color=BLACK)](https://github.com/Zlisch/github-readme-stats)
 
 <!--
 **Zlisch/Zlisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
