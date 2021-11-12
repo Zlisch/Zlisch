@@ -14,7 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zlisch&layout=compact&theme=gotham&hide_border=true)](https://github.com/Zlisch/github-readme-stats)
 
-#### :art: My interactive art design demo
+#### :art: My interactive new media art design demo
 
 [https://youtu.be/YpAS_Kv3w8w](https://youtu.be/YpAS_Kv3w8w)
 
