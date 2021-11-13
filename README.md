@@ -6,7 +6,7 @@
 
 - Travelling salesman problem
 - Collatz Conjecture
-- Simulating TMs on Haskell and Java
+- Simulating TMs on [Haskell](https://www.haskell.org/onlinereport/haskell2010/haskellch1.html) and Java
 - Fibonacci Complexity
 - Concurrency and OS file I/O
 
