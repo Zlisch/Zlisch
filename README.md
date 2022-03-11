@@ -1,4 +1,4 @@
-#### Hi there! I'm Zina, an undergrad from the Australian National University:green_heart:
+#### Hi there! I'm Xin, pronounced they/them, an undergrad from the Australian National University:green_heart:
 
 #### I plan to experiment with cool concepts I learned from class and awesome people during holidays. Stay tune!!
 
