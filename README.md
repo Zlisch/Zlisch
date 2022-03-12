@@ -1,4 +1,4 @@
-#### Hi there👋 I'm Xin (They/them), an undergrad from the Australian National University.
+#### Hi there! I'm Xin (They/them), an undergrad from the Australian National University:green_heart:
 
 #### I plan to experiment with cool concepts I learned from class and awesome people during holidays. Stay tune!!
 
