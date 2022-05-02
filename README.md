@@ -1,15 +1,5 @@
 #### Hi there! I'm Xin (They/them), an undergrad from the Australian National University:green_heart:
 
-#### I plan to experiment with cool concepts I learned from class and awesome people during holidays. Stay tune!!
-
-#### 🔭 I’m currently interested in:
-
-- Travelling salesman problem
-- Collatz Conjecture
-- Simulating TMs on [Haskell](https://www.haskell.org/onlinereport/haskell2010/haskellch1.html) and Java
-- Fibonacci Complexity
-- Concurrency and OS file I/O
-
 [![Zlisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zlisch&theme=gotham&hide_border=true)](https://github.com/Zlisch/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zlisch&layout=compact&theme=gotham&hide_border=true)](https://github.com/Zlisch/github-readme-stats)
