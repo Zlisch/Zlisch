@@ -1,4 +1,4 @@
-#### Hi there! I'm Xin, an undergrad from Australian National University.
+#### Hi there! I'm Xin, an undergrad from the Australian National University.
 
 <!--
 [![Zlisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zlisch&theme=gotham&hide_border=true)](https://github.com/Zlisch/github-readme-stats)
