@@ -1,6 +1,8 @@
 #### Hi there! I'm Xin, an undergrad from Australian National University.
 
+<!--
 [![Zlisch's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zlisch&theme=gotham&hide_border=true)](https://github.com/Zlisch/github-readme-stats)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zlisch&layout=compact&theme=gotham&hide_border=true)](https://github.com/Zlisch/github-readme-stats)
 
