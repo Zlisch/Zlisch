@@ -16,7 +16,7 @@
 
 [https://youtu.be/YpAS_Kv3w8w](https://youtu.be/YpAS_Kv3w8w)
 
-#### 📫 How to reach me:
+#### 📫 Be connected:
 
 <a href="https://www.linkedin.com/in/xin-lu-a8180a180/" target="_blank"><img src="https://img.shields.io/badge/Xin_Lu-Lu?logo=LinkedIn&logoColor=white&label=LinkedIn&labelColor=%230072b1&color=grey"></a>
 <a href="mailto:xin@xinloi.fun"><img src="https://img.shields.io/badge/xin%40xinloi.fun-white?label=%F0%9F%93%A7%20Email&labelColor=f65314&color=grey"></a>
