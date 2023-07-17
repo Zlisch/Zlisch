@@ -27,7 +27,7 @@
 <a href="https://www.linkedin.com/in/xin-lu-a8180a180/" target="_blank"><img src="https://img.shields.io/badge/Xin_Lu-Lu?logo=LinkedIn&logoColor=white&label=LinkedIn&labelColor=%230072b1&color=grey"></a>
 <a href="mailto:xin@xinloi.fun"><img src="https://img.shields.io/badge/xin%40xinloi.fun-white?label=%F0%9F%93%A7%20Email&labelColor=f65314&color=grey"></a>
 <a href="https://xinloi.fun/"><img src="https://img.shields.io/badge/xinloi.fun-white?label=%F0%9F%8C%90%20Web&labelColor=7cbb00&color=grey"></a>
-<a href="https://zinamenshiki.tumblr.com/archive" target="_blank"><img src="https://img.shields.io/badge/@zinamenshiki-white?logo=Tumblr&logoColor=white&label=Tumblr&labelColor=34526f&color=grey"></a>
+<a href="https://zinamenshiki.tumblr.com" target="_blank"><img src="https://img.shields.io/badge/@zinamenshiki-white?logo=Tumblr&logoColor=white&label=Tumblr&labelColor=34526f&color=grey"></a>
 <a href="https://www.threads.net/@zzinaaaaaaa" target="_blank"><img src="https://img.shields.io/badge/%40zzinaaaaaaa-white?logo=Threads&logoColor=black&label=Threads&labelColor=white&color=grey"></a>
 
 <!--
