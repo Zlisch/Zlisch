@@ -16,6 +16,10 @@
 
 [https://youtu.be/YpAS_Kv3w8w](https://youtu.be/YpAS_Kv3w8w)
 
+### 🎶 Computer music art pieces:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mDV7D6Kany0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 #### 📫 Stay connected:
 
 <a href="https://www.linkedin.com/in/xin-lu-a8180a180/" target="_blank"><img src="https://img.shields.io/badge/Xin_Lu-Lu?logo=LinkedIn&logoColor=white&label=LinkedIn&labelColor=%230072b1&color=grey"></a>
