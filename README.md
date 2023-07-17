@@ -6,6 +6,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zlisch&layout=compact&theme=gotham&hide_border=true)](https://github.com/Zlisch/github-readme-stats)
 
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Zlisch&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
 #### :art: My interactive new media art design demo:
 
 [https://youtu.be/YpAS_Kv3w8w](https://youtu.be/YpAS_Kv3w8w)
