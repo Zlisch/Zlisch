@@ -19,8 +19,8 @@
 #### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/xin-lu-a8180a180/" target="_blank"><img src="https://img.shields.io/badge/Xin_Lu-Lu?logo=LinkedIn&logoColor=white&label=LinkedIn&labelColor=%230072b1&color=grey"></a>
-<a href="mailto:xin@xinloi.fun"><img src="https://img.shields.io/badge/xin%40xinloi.fun-white?label=%F0%9F%93%A7%20Email&labelColor=f2a60c&color=grey"></a>
-<a href="https://xinloi.fun/"><img src="https://img.shields.io/badge/xinloi.fun-white?label=%F0%9F%8C%90%20Web&labelColor=00a1f1&color=grey"></a>
+<a href="mailto:xin@xinloi.fun"><img src="https://img.shields.io/badge/xin%40xinloi.fun-white?label=%F0%9F%93%A7%20Email&labelColor=f65314&color=grey"></a>
+<a href="https://xinloi.fun/"><img src="https://img.shields.io/badge/xinloi.fun-white?label=%F0%9F%8C%90%20Web&labelColor=7cbb00&color=grey"></a>
 
 <!--
 <a href="https://t.me/moepoi" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40moepoi-28a8ea"></a>
