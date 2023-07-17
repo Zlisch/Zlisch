@@ -16,7 +16,8 @@
 
 [https://youtu.be/YpAS_Kv3w8w](https://youtu.be/YpAS_Kv3w8w)
 
-Feel free to contact me :yum:
+#### 📫 How to reach me:
+
 <br><br>
 <a href="https://www.linkedin.com/in/xin-lu-a8180a180/" target="_blank"><img src="https://img.shields.io/badge/Xin-Lu?logo=LinkedIn&logoColor=white&label=LinkedIn&labelColor=%230072b1&color=white"></a>
 
