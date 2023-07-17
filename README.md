@@ -15,13 +15,11 @@
 #### :art: My interactive new media art design demo:
 
 [https://youtu.be/YpAS_Kv3w8w](https://youtu.be/YpAS_Kv3w8w)
-[https://vimeo.com/845053127](https://vimeo.com/845053127)
 
 ### 🎶 Computer music art pieces:
 
 [https://youtu.be/mDV7D6Kany0](https://youtu.be/mDV7D6Kany0)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mDV7D6Kany0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[https://vimeo.com/845053127](https://vimeo.com/845053127)
 
 #### 📫 Stay connected:
 
