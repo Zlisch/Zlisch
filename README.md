@@ -28,7 +28,9 @@
 <a href="https://www.xinloi.net/"><img src="https://img.shields.io/badge/xinloi.net-white?label=%F0%9F%8C%90%20Web&labelColor=7cbb00&color=grey"></a>
 <a href="mailto:xinloinet@gmail.com"><img src="https://img.shields.io/badge/xinloinet%40gmail.com-white?label=%F0%9F%93%A7%20Email&labelColor=f65314&color=grey"></a>
 <a href="https://zinamenshiki.tumblr.com" target="_blank"><img src="https://img.shields.io/badge/@zinamenshiki-white?logo=Tumblr&logoColor=white&label=Tumblr&labelColor=34526f&color=grey"></a>
+<!--
 <a href="https://www.threads.net/@zzinaaaaaaa" target="_blank"><img src="https://img.shields.io/badge/%40zzinaaaaaaa-white?logo=Threads&logoColor=black&label=Threads&labelColor=white&color=grey"></a>
+-->
 
 <!--
 **Zlisch/Zlisch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
